@@ -1,5 +1,5 @@
 # BBC iPlayer Longitudinal Interface Analysis (2018-2021)  
-*The first continuous dataset of iPlayer's landing page, with peer-reviewed findings on content prioritization and UX trends.*  
+*The first continuous dataset of iPlayer's landing page, with peer-reviewed findings on content prioritisation and UX trends.*  
 
 📊 [Tableau Dashboards](https://public.tableau.com/app/profile/jp.kelly8457/viz/AnAnalysisoftheBBCiPlayer/iPlayerAnalysis)  
 📝 [Published Papers](https://github.com/JP-Kelly/BBC-iPlayer-Analysis/blob/main/publications.md)  
