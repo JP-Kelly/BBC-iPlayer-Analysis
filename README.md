@@ -7,7 +7,7 @@ Longitudinal dataset of BBC iPlayer’s interface (August 2018 - April 2021 of d
 ## 📌 Overview  
 **Goal**: Develop a replicable method to document and analyse the iPlayer interface over time, identifying patterns in content prioritisation, UX design, and editorial strategy. The method was also designed to be easily adapted for other VOD services.  
 **Key Achievements**:  
-- Created the first continuous dataset of iPlayer's landing page (1+ year of daily scrapes).  
+- Created the first continuous dataset of iPlayer's landing page (2+ years of daily scrapes).  
 - Published findings in [*Critical Studies in Television*](https://journals.sagepub.com/doi/full/10.1177/17496020211024201) (2021) and [*MedieKultur*](https://tidsskrift.dk/mediekultur/article/view/122386) (2021).
 - Presented findings and methodology of this project at various conferences, including:
   * Digital Culture Meets Data (University of Brighton, UK, 2017)
