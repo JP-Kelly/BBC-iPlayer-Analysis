@@ -32,7 +32,7 @@
 
 ## 🛠️ Methodology  
 **Data Collection**:  
-- Automated daily scrapes using ParseHub (capturing a wide range of data points including: titles, synopses, row and column positions, channels).  
+- Automated daily scrapes using [ParseHub](https://www.parsehub.com/) (capturing a wide range of data points including: titles, synopses, row and column positions, channels).  
 - Collected daily snapshots at consistent times (9pm GMT) to account for diurnal variation in content.  
 
 **Data Processing**:  
