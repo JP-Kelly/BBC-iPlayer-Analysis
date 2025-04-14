@@ -1,5 +1,5 @@
 # BBC-iPlayer-Analysis
-Longitudinal dataset of BBC iPlayer’s interface (August 2018 - April 2021 of daily scrapes). Used for UX and content analysis, with findings published in peer-reviewed journals. Includes R scripts, Tableau dashboards, and raw data.
+Longitudinal dataset of BBC iPlayer’s interface (August 2018 - April 2021 of daily scrapes). Used for UX and content analysis, with findings published in peer-reviewed journals. Includes R scripts, [Tableau dashboards](https://public.tableau.com/app/profile/jp.kelly8457/viz/AnAnalysisoftheBBCiPlayer/iPlayerAnalysis), and raw data.
 
 # BBC iPlayer Interface Longitudinal Study  
 *A data-driven analysis of the BBC iPlayer landing page, capturing daily snapshots over 2+ years.*  
@@ -48,7 +48,27 @@ Longitudinal dataset of BBC iPlayer’s interface (August 2018 - April 2021 of d
 3. **The Rise and Fall of "Box Sets"**:
    - Longitudinal analysis revealed that there was a rise and fall in the prominence of "box sets" on BBC iPlayer. This indicated an editorial shift away from pushing similar / same content to a more diverse media diet (more in line with the aims and objectives of public service media).
 
-*(Include 1-2 screenshots of your most striking visualizations here)*  
+## Sample Screenshots
+
+
+- **Genre Heatmap**
+  
+![Genre Heatmap](https://github.com/user-attachments/assets/84cc2ec6-cade-4494-ac3d-46da7ed69378)
+
+
+- **Rise and Fall of Box Sets**
+  
+![Box Sets](https://github.com/user-attachments/assets/1a266b17-7d40-41a7-ade1-f1c990531930)
+
+
+- **Decline of Branding and Channels**
+  
+![Channels](https://github.com/user-attachments/assets/ff4953f8-81fe-4a85-a250-9a827dda4d4f)
+
+
+- **Distribution of Genre**
+  
+![Genre](https://github.com/user-attachments/assets/242032d5-7fae-4f31-8601-edfe17368121)
 
 ---
 
