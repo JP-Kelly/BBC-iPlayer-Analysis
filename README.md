@@ -2,7 +2,7 @@
 *The first continuous dataset of iPlayer's landing page, with peer-reviewed findings on content prioritization and UX trends.*  
 
 📊 [Tableau Dashboards](https://public.tableau.com/app/profile/jp.kelly8457/viz/AnAnalysisoftheBBCiPlayer/iPlayerAnalysis)  
-📝 [Published Papers](https://journals.sagepub.com/doi/full/10.1177/17496020211024201)  
+📝 [Published Papers](https://github.com/JP-Kelly/BBC-iPlayer-Analysis/blob/main/publications.md)  
 🛠️ [R Script](https://figshare.com/articles/software/R_Script_-_Cleaning_BBC_iPlayer_Interface_Data/13296437)   
 
 ---
