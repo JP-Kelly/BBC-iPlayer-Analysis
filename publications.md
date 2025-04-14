@@ -25,7 +25,7 @@ This sole-authored paper undertakes a 'distant reading' of the BBC iPlayer inter
 
 ### 2. "What's on the interface tonight?" A longitudinal analysis of the publishing strategies of public service video-on-demand platforms in the UK and Denmark
 
-**Authors:** JP Kelly & Jakob Krog Sørensen
+**Authors:** JP Kelly & Jannick Kirk Sørensen
 
 **Journal:**
 This co-authored study compares the publishing strategies of public service VoD platforms in the UK (BBC iPlayer) and Denmark (DRTV). Utilizing longitudinal interface data, the research examines how these platforms present content to their audiences, considering factors like genre prominence, editorial selections, and platform-specific features.
