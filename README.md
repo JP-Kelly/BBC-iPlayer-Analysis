@@ -82,10 +82,10 @@ To reproduce or extend this analysis:
 Run the R script ([download from FigShare](https://figshare.com/articles/software/R_Script_-_Cleaning_BBC_iPlayer_Interface_Data/13296437)):  
 ```r
 # Install dependencies (if needed)  
-install.packages(c("tidyverse", "lubridate"))  
+install.packages(c("dplyr", "stringer", "data.table", "tidyverse"))  
 
 # Run script (adjust paths as needed)  
-source("scripts/clean_parsehub_output.R")  # Output: cleaned_data/combined_dataset.csv  
+source("scripts/iplayer_script.R")  # Output: cleaned_data/combined_dataset.csv  
 ```
 
 ## 📂 Repository Structure  
