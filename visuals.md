@@ -71,3 +71,16 @@ These visualisations explored trends such as content availability and prominence
 💡 **Analysis:** Similar to the genre prominence visualisation above, this visualisation displays the average interface position, but for channels instead of genres. Channels positioned higher and to the left are more prominent. The analysis reveals that some channels / brands are consistently placed in less prominent positions (e.g., BBC World News, BBC Alba, BBC Teach). This finding raises the possibility of a strategic editorial decision to allocate less prominent interface positions to channels with a stronger public service portfolio (e.g., BBC World News, BBC Alba). This prioritisation could have implications for the audience reach and impact of these channels.
 
 **Explore the interactive visualisation**. You can interact with [this visualisation](https://public.tableau.com/shared/F9HTX7JDT?:display_count=n&:origin=viz_share_link) to discover your own insights, filtering the data by day of the week and/or date.
+
+---
+
+### Visualisation 7: The Rise of Channel Agnosticism
+
+
+![7 iPlayer Analysis - Channel Branding](https://github.com/user-attachments/assets/0dd73cfb-9c41-4e1f-b170-9cc1457451f1)
+
+
+💡 **Analysis:** This visualisation illustrates the increasing prominence of unbranded/unaffiliated content. Initially, content within the interface was predominantly channel-affiliated (e.g., BBC One, BBC Two, BBC Three), but this branding has diminished over time. This suggests a strategic shift towards a more platform-agnostic approach to content presentation.
+
+**Explore the interactive visualisation**. You can interact with [this visualisation](https://public.tableau.com/shared/7247SGRZ2?:display_count=n&:origin=viz_share_link) to discover your own insights, filtering the data by genre(s).
+
