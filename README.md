@@ -10,12 +10,12 @@
 ---
 
 ## 📌 Overview  
-**Goal**: Develop a replicable method to document and analyse the iPlayer interface over time, identifying patterns in content prioritisation, UX design, and editorial strategy. The method was also designed to be easily adapted for other VOD services.  
+**Goal**: Develop a replicable method to document and analyse the iPlayer interface over time, identifying patterns in content prioritisation, UX design, and editorial strategy. The method was designed to be easily adapted for other VOD services.  
 
 **Key Achievements**:  
 - Created the first continuous dataset of iPlayer's landing page (2+ years of daily scrapes).  
 - Published findings in [*Critical Studies in Television*](https://journals.sagepub.com/doi/full/10.1177/17496020211024201) (2021) and [*MedieKultur*](https://tidsskrift.dk/mediekultur/article/view/122386) (2021).  
-- Presented at 8 international conferences (2017-2023), including ECREA 2022 (Århus, Denmark), RIPE@2021 (Fribourg, Switzerland), and Critical Studies in Television (Edge Hill, UK).  
+- Presented at 9 international conferences (2017-2023), including ECREA 2022 (Århus, Denmark), RIPE@2021 (Fribourg, Switzerland), and Critical Studies in Television (Edge Hill, UK).  
 
 <details>
 <summary><b>Complete Conference List</b> (click to expand / collapse)</summary>   
@@ -39,7 +39,7 @@
 
 **Data Processing**:  
 - Cleaned/combined daily CSV files using [R script](https://figshare.com/articles/software/R_Script_-_Cleaning_BBC_iPlayer_Interface_Data/13296437).  
-- Output: Structured dataset for temporal analysis.  
+- Output: Structured dataset for temporal analysis in Tableau.  
 
 **Analysis & Outputs**:  
 1. **Tableau Dashboards**: [Link to Tableau Public](https://public.tableau.com/app/profile/jp.kelly8457/viz/AnAnalysisoftheBBCiPlayer/iPlayerAnalysis)  
@@ -78,7 +78,7 @@ To reproduce or extend this analysis:
 ### 1. **Data Collection**  
 - **Tools**: ParseHub (setup [project template](https://www.parsehub.com/))  
 - **Frequency**: Daily scrapes at 9pm GMT (adjust `cron`/scheduler if automated).  
-- **Output**: Raw CSV files per scrape (e.g., [`raw_data/2021-03-15.csv`](https://github.com/JP-Kelly/BBC-iPlayer-Analysis/blob/main/documents/sample_data_2021-10-31.csv)).  
+- **Output**: Raw CSV files from daily scrape (e.g., [`sample_data_2021-10-31.csv`](https://github.com/JP-Kelly/BBC-iPlayer-Analysis/blob/main/documents/sample_data_2021-10-31.csv)).  
 
 ### 2. **Data Cleaning**  
 Run the R script ([download from FigShare](https://figshare.com/articles/software/R_Script_-_Cleaning_BBC_iPlayer_Interface_Data/13296437)):  
