@@ -47,3 +47,15 @@ These visualisations explored trends such as content availability and prominence
 💡 **Analysis:** This visualisation breaks down genre frequency by month and reveals greater variability compared to the daily view (see visualisation above). For example, comedy is significantly more popular in some months (e.g., Jan, Feb, Dec) but only marginally more popular in others (e.g., July, Sept, Oct, Nov).
 
 **Explore the interactive visualisation**. You can interact with [this visualisation](https://public.tableau.com/shared/KSFGT9WWD?:display_count=n&:origin=viz_share_link) to discover your own insights, filtering the data by channel(s), row(s), and/or column(s).
+
+---
+
+### Visualisation 5: Genre Prominence in Interface
+
+
+![5 iPlayer Analysis - Genre position](https://github.com/user-attachments/assets/ad101200-8d72-41c4-a411-dc56caefddcc)
+
+
+💡 **Analysis:** This visualisation illustrates the average positioning of genres within the interface, where prominence increases towards the top-left (the area initially visible to users). The analysis reveals that some genres exhibit low prominence, appearing lower and/or further to the right (e.g., Sport, CBBC, CBeebies). This suggests a strategic decision by the BBC to ensure that certain genres have greater prominence over others.
+
+**Explore the interactive visualisation**. You can interact with [this visualisation](https://public.tableau.com/shared/9GFRK7Z7M?:display_count=n&:origin=viz_share_link) to discover your own insights, filtering the data by day of the week and/or date.
