@@ -35,3 +35,15 @@ These visualisations explored trends such as content availability and prominence
 💡 **Analysis:** This visualisation provides a breakdown of genre by day of the week. It demonstrates that comedy is the most common genre on all days of the week. 
 
 **Explore the interactive visualisation**. You can interact with [this visualisation](https://public.tableau.com/shared/KD9726RGP?:display_count=n&:origin=viz_share_link) to discover your own insights, filtering the data by channel(s), row(s), and/or column(s).
+
+---
+
+### Visualisation 4: Popularity of Genre (by Month)
+
+
+![4 iPlayer Analysis - Genre popularity (month)](https://github.com/user-attachments/assets/e8b314fc-a7fa-43f3-a493-c25938e8507a)
+
+
+💡 **Analysis:** This visualisation breaks down genre frequency by month and reveals greater variability compared to the daily view (see visualisation above). For example, comedy is significantly more popular in some months (e.g., Jan, Feb, Dec) but only marginally more popular in others (e.g., July, Sept, Oct, Nov).
+
+**Explore the interactive visualisation**. You can interact with [this visualisation](https://public.tableau.com/shared/KSFGT9WWD?:display_count=n&:origin=viz_share_link) to discover your own insights, filtering the data by channel(s), row(s), and/or column(s).
