@@ -59,3 +59,15 @@ These visualisations explored trends such as content availability and prominence
 💡 **Analysis:** This visualisation illustrates the average positioning of genres within the interface, where prominence increases towards the top-left (the area initially visible to users). The analysis reveals that some genres exhibit low prominence, appearing lower and/or further to the right (e.g., Sport, CBBC, CBeebies). This suggests a strategic decision by the BBC to ensure that certain genres have greater prominence over others.
 
 **Explore the interactive visualisation**. You can interact with [this visualisation](https://public.tableau.com/shared/9GFRK7Z7M?:display_count=n&:origin=viz_share_link) to discover your own insights, filtering the data by day of the week and/or date.
+
+---
+
+### Visualisation 6: Channel Prominence in Interface
+
+
+![6 iPlayer Analysis - Channel position](https://github.com/user-attachments/assets/a48e47b6-1435-4984-891c-2c8286d56af0)
+
+
+💡 **Analysis:** Similar to the genre prominence visualisation above, this visualisation displays the average interface position, but for channels instead of genres. Channels positioned higher and to the left are more prominent. The analysis reveals that some channels / brands are consistently placed in less prominent positions (e.g., BBC World News, BBC Alba, BBC Teach). This finding raises the possibility of a strategic editorial decision to allocate less prominent interface positions to channels with a stronger public service portfolio (e.g., BBC World News, BBC Alba). This prioritisation could have implications for the audience reach and impact of these channels.
+
+**Explore the interactive visualisation**. You can interact with [this visualisation](https://public.tableau.com/shared/F9HTX7JDT?:display_count=n&:origin=viz_share_link) to discover your own insights, filtering the data by day of the week and/or date.
