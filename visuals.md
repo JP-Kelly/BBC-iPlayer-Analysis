@@ -84,3 +84,15 @@ These visualisations explored trends such as content availability and prominence
 
 **Explore the interactive visualisation**. You can interact with [this visualisation](https://public.tableau.com/shared/7247SGRZ2?:display_count=n&:origin=viz_share_link) to discover your own insights, filtering the data by genre(s).
 
+---
+
+### Visualisation 8: Avg Availability of Titles
+
+
+![8 iPlayer Analysis - Average availability](https://github.com/user-attachments/assets/4e9abbc4-7886-4dd2-9b25-0e3aaaa12714)
+
+
+💡 **Analysis:** This visualisation displays the average content availability on BBC iPlayer, broken down by genre and channel. Availability is defined as the number of days content remains accessible. The analysis reveals a trend of longer availability for factual genres (e.g., Current Affairs, averaging 287 days) compared to fiction genres (e.g., Film, averaging 35 days), suggesting potential differences in rights restrictions.   
+
+**Explore the interactive visualisation**. You can interact with [this visualisation](https://public.tableau.com/shared/ZQ2J8TZ6Q?:display_count=n&:origin=viz_share_link) to discover your own insights.
+
