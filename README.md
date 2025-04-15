@@ -90,6 +90,16 @@ source("scripts/iplayer_script.R")  # Output: cleaned_data/combined_dataset.csv
 
 ## 📂 Repository Structure  
 
-Under construction
-
-
+This repository is organized as follows:
+```
+BBC-iPlayer-Analysis/
+├── documents/
+│   └── sample_data_2021-10-31.csv  # Contains a sample of the main dataset
+├── scripts/
+│   └── data_cleaning.R             # R script for data cleaning
+├── README.md                       # This file
+├── data.md                         # Detailed data dictionary
+├── publications.md                 # List of publications
+├── presentations.md                # List of presentations (under construction)
+└── visuals.md                      # Page showcasing visualizations
+```
