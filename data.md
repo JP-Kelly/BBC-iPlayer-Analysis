@@ -3,7 +3,7 @@
 
 ## 💾 About the Dataset
 
-This dataset comprises daily snapshots of the BBC iPlayer landing page (2018-2021), providing a longitudinal record of content presentation. The data includes details such as content titles, descriptions, URLs, genre classifications, availability, duration, and positioning on the page. It also captures information related to channel branding and box set inclusion. For a comprehensive explanation of all variables, see the [**Data Dictionary**](#data-dictionary) section.
+This dataset comprises daily snapshots of the BBC iPlayer landing page (2018-2021), providing a longitudinal record of content presentation. The data includes details such as content titles, descriptions, URLs, genre classifications, availability, duration, and positioning on the page. It also captures information related to channel branding and box set inclusion. For a comprehensive explanation of all variables, see the [**Data Dictionary**](https://github.com/JP-Kelly/BBC-iPlayer-Analysis/blob/main/data.md#-data-dictionary) section.
 
 ## 📁 Sample Data
 
