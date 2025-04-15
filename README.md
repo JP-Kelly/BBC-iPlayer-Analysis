@@ -100,6 +100,6 @@ BBC-iPlayer-Analysis/
 ├── README.md                       # This file
 ├── data.md                         # Detailed data dictionary
 ├── publications.md                 # List of publications
-├── presentations.md                # List of presentations (under construction)
-└── visuals.md                      # Page showcasing visualizations
+├── presentations.md                # List of presentations
+└── visuals.md                      # Page showcasing visualisations
 ```
