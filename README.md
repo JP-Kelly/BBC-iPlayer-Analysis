@@ -69,5 +69,27 @@
 
 ---
 
+## 🔄 Workflow (Replication Steps)  
+
+To reproduce or extend this analysis:  
+
+### 1. **Data Collection**  
+- **Tools**: ParseHub (setup [project template](https://www.parsehub.com/))  
+- **Frequency**: Daily scrapes at 9pm GMT (adjust `cron`/scheduler if automated).  
+- **Output**: Raw CSV files per scrape (e.g., [`raw_data/2021-03-15.csv`](https://github.com/JP-Kelly/BBC-iPlayer-Analysis/blob/main/documents/sample_data_2021-10-31.csv)).  
+
+### 2. **Data Cleaning**  
+Run the R script ([download from FigShare](https://figshare.com/articles/software/R_Script_-_Cleaning_BBC_iPlayer_Interface_Data/13296437)):  
+```r
+# Install dependencies (if needed)  
+install.packages(c("tidyverse", "lubridate"))  
+
+# Run script (adjust paths as needed)  
+source("scripts/clean_parsehub_output.R")  # Output: cleaned_data/combined_dataset.csv  
+```
 
 ## 📂 Repository Structure  
+
+Under construction
+
+
