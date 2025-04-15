@@ -2,17 +2,17 @@
 
 # Visualizations
 
-This page showcases some of my data visualizations created using Tableau.
+This page showcases some of my data visualisations created using Tableau.
 
-## BBC iPlayer Content Trends
+These visualisations explored trends such as content availability and prominence, branding and channel affiliation, frequency of box sets, and genre distribution on the BBC iPlayer platform.
 
-This project analyzed trends in content availability and genre distribution on the BBC iPlayer platform.
+### Visualization 1: Analysis of Box Sets Over Time
 
-### Visualization 1: Genre Distribution Over Time
+![1 iPlayer Analysis - Analysis of Boxsets](https://github.com/user-attachments/assets/534d754b-5497-4f0f-8356-93534a2a992b)
 
-![Screenshot of Genre Distribution Visualization](images/iplayer_genre_distribution.png)
 
-This visualization shows the changing proportion of different genres on the iPlayer landing page over time. We can observe... (Commentary explaining the key findings).
+
+**Analysis**: This visualisation shows the frequency of **Box Sets** by genre, channel, month, and day of the week. The visualisation highlights a number of interesting patterns. For instance, it reveals that comedy is the genre with the highest number of Box Sets. Another key insight is that Box Sets are far more prevalent during summer months. The summer increase in Box Sets might be related to seasonal viewing patterns, with people having more free time for extended viewing.  
 
 ### Visualization 2: Content Availability Duration
 
@@ -29,37 +29,8 @@ This chart illustrates the distribution of content availability duration. The an
 
 ## Interactive BBC iPlayer Analysis
 
-This section provides an interactive version of the BBC iPlayer analysis dashboard. You can explore the data by filtering, highlighting, and interacting with the various charts.
+Link to be added here
 
-**Please note:** The visualisation may take a moment to load. Optimised for laptop / desktop.
 
-<div class='tableauPlaceholder' id='viz1744708625958' style='position: relative'>
-  <noscript>
-    <a href='#'>
-      <img alt='An analysis of the BBC iPlayer by JP Kelly (@jippykelly)' src='https://public.tableau.com/static/images/An/AnAnalysisoftheBBCiPlayer/iPlayerAnalysis/1_rss.png' style='border: none' />
-    </a>
-  </noscript>
-  <object class='tableauViz' style='display:none;'>
-    <param name='host_url' value='https://public.tableau.com/' />
-    <param name='embed_code_version' value='3' />
-    <param name='site_root' value='' />
-    <param name='name' value='AnAnalysisoftheBBCiPlayer/iPlayerAnalysis' />
-    <param name='tabs' value='no' />
-    <param name='toolbar' value='yes' />
-    <param name='static_image' value='https://public.tableau.com/static/images/An/AnAnalysisoftheBBCiPlayer/iPlayerAnalysis/1.png' />
-    <param name='animate_transition' value='yes' />
-    <param name='display_static_image' value='yes' />
-    <param name='display_spinner' value='yes' />
-    <param name='display_overlay' value='yes' />
-    <param name='display_count' value='yes' />
-    <param name='language' value='en-GB' />
-  </object>
-</div>
-
-### Key Insights from the Dashboard
-
-* **[Insight 1]:** Briefly describe a key finding that the user can explore in the dashboard.
-* **[Insight 2]:** Highlight another interesting trend or pattern.
-* **[Insight 3]:** Suggest a specific interaction for the user to try (e.g., "Filter by genre to see...").
 
 ---
