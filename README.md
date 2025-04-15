@@ -5,6 +5,8 @@
 📝 [Published Papers](https://github.com/JP-Kelly/BBC-iPlayer-Analysis/blob/main/publications.md)  
 🛠️ [R Script](https://figshare.com/articles/software/R_Script_-_Cleaning_BBC_iPlayer_Interface_Data/13296437)   
 
+![Box Sets](https://github.com/user-attachments/assets/7f921531-dd9d-4962-8a7d-ccd17aede0fe)
+
 ---
 
 ## 📌 Overview  
