@@ -19,7 +19,7 @@
 
 <details>
 <summary><b>Complete Conference List</b> (click to expand / collapse)</summary>   
-
+<br></details</br>
 - Digital Culture Meets Data (University of Brighton, UK, 2017)  
 - Public Service Media's Online Strategies (Prague National Film Archive, Czech Rep., 2019)  
 - Algorithms in Film and Television (Bilgi University, Türkiye, 2021)  
